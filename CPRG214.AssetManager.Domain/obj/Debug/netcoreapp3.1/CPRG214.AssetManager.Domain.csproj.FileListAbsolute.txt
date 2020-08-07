@@ -1,0 +1,9 @@
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.deps.json
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.dll
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.pdb
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.csprojAssemblyReference.cache
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.AssemblyInfoInputs.cache
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.AssemblyInfo.cs
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.dll
+C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Domain\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.pdb

@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Search";
+}
+
+<h3>Current Assets</h3>
+<br />
+<select id="uxAssetTypes" asp-items="ViewBag.AssetTypes" style="height: 2.4rem; width: 8rem;"></select>
+&nbsp;
+<a class="btn btn-secondary text-white" id="uxFilterAssets" style="margin-bottom: 0.4rem;">Filter</a>
+<br />
+<div id="uxDisplay">
+    @await Component.InvokeAsync("AssetsByType", 0) 
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
+
