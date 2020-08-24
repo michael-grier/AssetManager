@@ -12,3 +12,17 @@ C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\D
 C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.csproj.CopyComplete
 C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.dll
 C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.deps.json
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.csprojAssemblyReference.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.AssemblyInfoInputs.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.AssemblyInfo.cs
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.csproj.CopyComplete
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.BLL\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.BLL.pdb

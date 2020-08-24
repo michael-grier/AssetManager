@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shjkoekAXJwfdVnttA7P4JLYbPm9uBcYE1UhnxTaV4GtyoGP4Fhf+dEkCNDVJR9uoTal8hWQlddXsTtDnlPryg==",
+  "dgSpecHash": "+f/8I+tJ+xfKV4az5t+t93ije6z3uVdoBxgC1xVO1djR0rEEs6yqnGQ1kg0xQ2CPr9vDYhcrI6sCMiyyT/e4Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\CPRG214.AssetManager.Data.csproj",
+  "projectFilePath": "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\CPRG214.AssetManager.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\418004\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\418004\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

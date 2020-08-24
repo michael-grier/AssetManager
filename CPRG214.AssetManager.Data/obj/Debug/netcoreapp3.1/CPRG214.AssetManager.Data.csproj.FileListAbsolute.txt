@@ -13,3 +13,18 @@ C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\
 C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.dll
 C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.pdb
 C:\Users\418004\source\repos\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.genruntimeconfig.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.deps.json
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.runtimeconfig.json
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.runtimeconfig.dev.json
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetManager.Domain.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.csprojAssemblyReference.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.AssemblyInfoInputs.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.AssemblyInfo.cs
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.csproj.CopyComplete
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.dll
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.pdb
+C:\Users\418004\Documents\OOSD Program\.NET Web Development\Code\CPRG214.AssetManager\CPRG214.AssetManager.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetManager.Data.genruntimeconfig.cache

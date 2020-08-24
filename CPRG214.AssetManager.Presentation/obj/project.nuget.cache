@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+092iDtGIIOTnPFDxia/51ypAx9o/YbAr4GI9xOCOavdPus4DJdhHhdfHckrv+tCGzAj4WXiMIgm3R8qHnSxA==",
+  "dgSpecHash": "QNUyG8swd2HwScU68rmMeW4sriySoUqogMLaGjyU2RRlc+kKRSNH9O0nJrT8G29MN3p847n792wmtri8eVnxjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Presentation\\CPRG214.AssetManager.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Presentation\\CPRG214.AssetManager.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\418004\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\418004\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

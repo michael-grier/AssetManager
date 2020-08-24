@@ -5021,11 +5021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\CPRG214.AssetManager.Data.csproj",
+      "projectUniqueName": "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\CPRG214.AssetManager.Data.csproj",
       "projectName": "CPRG214.AssetManager.Data",
-      "projectPath": "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\CPRG214.AssetManager.Data.csproj",
+      "projectPath": "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\CPRG214.AssetManager.Data.csproj",
       "packagesPath": "C:\\Users\\418004\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\obj\\",
+      "outputPath": "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\418004\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5041,8 +5041,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Domain\\CPRG214.AssetManager.Domain.csproj": {
-              "projectPath": "C:\\Users\\418004\\source\\repos\\CPRG214.AssetManager\\CPRG214.AssetManager.Domain\\CPRG214.AssetManager.Domain.csproj"
+            "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Domain\\CPRG214.AssetManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\418004\\Documents\\OOSD Program\\.NET Web Development\\Code\\CPRG214.AssetManager\\CPRG214.AssetManager.Domain\\CPRG214.AssetManager.Domain.csproj"
             }
           }
         }
@@ -5082,7 +5082,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
